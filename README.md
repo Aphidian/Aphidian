@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**soulrika/soulrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord Bots](https://top.gg/api/widget/811283944175304705.svg)](https://top.gg/bot/811283944175304705)
+
+
+# About:
+
+### I am a 16 year old dude who codes in Python.
+
+#### Things I have made:
+• [Zori](https://top.gg/bot/811283944175304705) - A multi-purpose discord bot which was made for people to have fun with their friends.
+• [Word Counter](https://github.com/soulrika/Word-counter-bot) - A discord bot that counts words in a server, it uses regex to filter out non-words.
+

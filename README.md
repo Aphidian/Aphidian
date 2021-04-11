@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
-[![Discord Bots](https://top.gg/api/widget/811283944175304705.svg)](https://top.gg/bot/811283944175304705)
+![discord status](https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/750470053300011070)
 
 
 # About:

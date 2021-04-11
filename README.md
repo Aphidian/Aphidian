@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-![discord status](https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/750470053300011070)
 
 
 # About:

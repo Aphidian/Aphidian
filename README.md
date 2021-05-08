@@ -5,7 +5,7 @@
 
 # About:
 
-### I code in python.
+### I code in in the snake language
 
 #### Things I have made:
 • [Zori](https://top.gg/bot/811283944175304705) - A multi-purpose discord bot which was made for people to have fun with their friends.

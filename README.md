@@ -8,7 +8,7 @@
 ### I code in in the snake language
 
 #### Things I have made:
-• [Zori](https://top.gg/bot/811283944175304705) - A multi-purpose discord bot which was made for people to have fun with their friends.
+• [Zori](https://zori.social) - A multi-purpose discord bot which was made for people to have fun with their friends.
 
 • [Word Counter](https://github.com/soulrika/Word-counter-bot) - A discord bot that counts words in a server, it uses regex to filter out non-words.
 

@@ -8,5 +8,5 @@
 #### • Python programmer
 #### • College student
 
-#### Owner/developer of [Zori](https://zori.social); a multi-purpose Discord bot.
+#### Owner/developer of [Zori](https://zoribot.xyz); a multi-purpose Discord bot.
 
